@@ -2,16 +2,16 @@ li{
     background-color: aqua;
     color: blue;
 }
-
+h1{
+    color: red;
+}       
 .mostpopular{
     background-color:blueviolet;
 }
 #favorite{
     background-color: palevioletred;
 }
-h1{
-    color: red;
-}       
+
 .header{
     color:red;
     font: size 40px;
