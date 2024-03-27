@@ -11,7 +11,9 @@ h1{
 #favorite{
     background-color: palevioletred;
 }
-
+.main{
+    text-align: center;
+}
 .header{
     color:red;
     font: size 40px;
@@ -20,7 +22,4 @@ h1{
 }
 .header:hover {
     color:skyblue
-}
-.main{
-    text-align: center;
 }
