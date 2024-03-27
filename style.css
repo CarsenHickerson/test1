@@ -16,7 +16,11 @@ h1{
     color:red;
     font: size 40px;
     font-family: fantasy;
+    text-align: center;
 }
 .header:hover {
     color:skyblue
+}
+.main{
+    text-align: center;
 }
