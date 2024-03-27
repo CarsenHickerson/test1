@@ -12,4 +12,11 @@ li{
 h1{
     color: darkblue;
 }       
-
+.header{
+    color:red;
+    font: size 40px;
+    font-family: fantasy;
+}
+.header:hover {
+    color:skyblue
+}
